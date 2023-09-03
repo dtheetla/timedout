@@ -1,8 +1,12 @@
 {
   "name": "@dv27/timedout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "logs out user if no activity on the web page",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtheetla/timedout"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
