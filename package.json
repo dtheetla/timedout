@@ -1,6 +1,6 @@
 {
   "name": "@dv27/timedout",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "logs out user if no activity on the web page",
   "main": "index.js",
   "repository": {
